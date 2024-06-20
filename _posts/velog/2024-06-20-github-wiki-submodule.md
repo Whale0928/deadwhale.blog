@@ -12,14 +12,14 @@ tags: [ github ]
 
 주로 프로젝트의 설명 / 용어 사전 / 컨벤션 등 다양한 분야에서 사용되는 부분이 많습니다.
 
-가장 많이 사용되는 건 `노션` , `MS teams` ,`github wiki`등이 있죠.
+가장 많이 사용되는 건 `노션` , `MS teams` ,`github wiki`등이 있죠.
 
-현재 우리가 필요한건 용어사전과 컨벤션등을 관리하기 위해 필요한 환경으로느 `github wiki`가 가장 적합합니다.
+현재 우리가 필요한건 용어사전과 컨벤션등을 관리하기 위해 필요한 환경으로느 `github wiki`가 가장 적합합니다.
 
 ---
 
 
-`github wiki` 는 각종 컨벤션이나 용어사전 팀내 약속을 정하기 가장 효율적인 플랫폼입니다.
+`github wiki` 는 각종 컨벤션이나 용어사전 팀내 약속을 정하기 가장 효율적인 플랫폼입니다.
 
 다만 제가 사용하지 않은 이유는 크게 2가지가 있습니다.
 
@@ -35,22 +35,23 @@ tags: [ github ]
 이런 부분을 개선하기 위해 로컬에서도 사용해보았지만 결국 웹이랑 같은 불편함이 벌어졌습니다.
 그래서 좀더 개선된 방식으로 아예 개발 환경에 딱 붙여두자! 라는 생각으로 서브모듈을 활용한 위키를 도입하도록 하였습니다.
 
-
 ----
 
 ### 0. 프로젝트 준비
 
-![](https://i.imgur.com/6ETUcn6.png)
+![Desktop View](https://i.imgur.com/6ETUcn6.png){: w="700" h="400" }
 
-현재 제가 이것저것 사용하는 프로젝트가 있습니다.
+![Desktop View](/path/to/6ETUcn6.png)
+
+[springboot-practice](https://github.com/Whale0928/springboot-practice)
+
+제가 이것 저것 사용 하는 프로젝트가 있습니다.
 
 뭔가 테스트하거나 확인해볼게 있으면 주로 해당 레포에서 작업을 합니다.
 
 이번에도 위키를 작성하는게 아닌 서브 모듈을 도입하는 것만 테스트할 것이니.
 
-이 레포를 활용해보겠습니다.
-
------
+이 레포를 활용하겠습니다.
 
 ### 1. github wiki의 git 주소를 확인
 
@@ -63,7 +64,7 @@ tags: [ github ]
 ### 2. 프로젝트 git에 sub module 추가
 
 ```
-git submodule add {{ 위키 주소 }}
+git submodule add { 위키 주소 }
 
 ex) git submodule add https://github.com/Whale0928/springboot-practice.wiki.git
 ```
