@@ -6,7 +6,6 @@ categories: [ project,api ]
 tags: [ project,api ]
 ---
 
-https://github.com/Whale0928/profanity-filter-api
 
 ## 개요
 
@@ -77,3 +76,6 @@ https://github.com/Whale0928/profanity-filter-api
 - 최대한 빠른 응답시간을 제공한다.
 
 같은 목표를 가지고 프로젝트를 진행하고 있습니다.
+
+
+https://github.com/Whale0928/profanity-filter-api 
