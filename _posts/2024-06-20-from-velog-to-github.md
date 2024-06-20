@@ -1,10 +1,11 @@
-## 벨로그에서 깃허브로
-
 ---
-title : '벨로그에서 깃허브로'
-date : '2023-08-12'
-categories : [github]
-tags : [github, post]
+title: '벨로그에서 깃허브로'
+date: 2024-06-20
+author: me
+categories: [ github ]
+tags: [ github, post ]
+image:
+  path: /assets/img/post/20240620/img.png
 ---
 
 ## 벨로그에서 깃허브로
