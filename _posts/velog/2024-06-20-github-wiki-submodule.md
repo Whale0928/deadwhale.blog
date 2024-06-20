@@ -39,9 +39,7 @@ tags: [ github ]
 
 ### 0. 프로젝트 준비
 
-![Desktop View](https://i.imgur.com/6ETUcn6.png){: w="700" h="400" }
-
-![Desktop View](/path/to/6ETUcn6.png)
+![Desktop View](https://i.imgur.com/6ETUcn6.png)
 
 [springboot-practice](https://github.com/Whale0928/springboot-practice)
 
