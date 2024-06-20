@@ -3,7 +3,7 @@ title: '벨로그에서 깃허브로'
 date: 2024-06-20
 author: me
 categories: [ github ]
-tags: [ github, post ]
+tags: [ github ]
 image:
   path: /assets/img/post/20240620/img.png
 ---
