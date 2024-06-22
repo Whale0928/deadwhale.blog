@@ -68,13 +68,13 @@ tags: [ project,api ]
 
 ### 프로젝트 목표
 
+> 만약 이 서비스에서 KISO로 변경해도 큰 작업이 필요없도록 설계하고 싶었습니다.
+
 - 비용부담 없는 비속어에 대한 검증을 제공하는 오픈 소스 서비스를 만든다.
 - 실 사용 가능한 API 서비스를 만든다.
 - KISO로 변경 하는 작업이 쉽도록 설계한다.
 - 최대한 빠른 응답 시간을 제공한다.
 - 최대한 정확한 검증을 제공한다.
-
-만약 이 서비스에서 KISO로 변경해도 큰 작업이 필요없도록 설계하고 싶었습니다.
 
 응답 코드 또한 KISO의 형태와 비슷하게 만들어서 변경이 쉽도록 만들었습니다.
 ![](https://i.imgur.com/6HJU99J.png)
@@ -87,5 +87,7 @@ tags: [ project,api ]
 
 
 ----
+
+![](https://i.imgur.com/Vylhhie.png)
 
 > 사용법은 [Github](https://github.com/Whale0928/profanity-filter-api)에서 확인해주세요.
