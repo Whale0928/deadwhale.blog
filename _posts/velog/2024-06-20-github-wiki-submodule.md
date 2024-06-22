@@ -2,8 +2,8 @@
 title: '깃허브 위키 서브모듈로 관리하기'
 date: 2024-06-20
 author: me
-categories: [ github ]
-tags: [ github ]
+categories: [ velog,github ]
+tags: [ velog,github ]
 ---
 
 ### 개요
