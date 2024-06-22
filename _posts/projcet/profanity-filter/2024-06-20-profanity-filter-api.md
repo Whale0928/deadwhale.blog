@@ -83,4 +83,9 @@ tags: [ project,api ]
 
 예를 들어, `Content-Type`을 `application/x-www-form-urlencoded`에서 `application/json`으로 변경하였습니다.
 
-응답의 값중 Array를 List로 변경하는 등의 몇몇 차이점은 존재하니 유의해서 사용해주세요. 
+응답의 값중 Array를 List로 변경하는 등의 몇몇 차이점은 존재하니 유의해서 사용해주세요.
+
+
+----
+
+> 사용법은 [Github](https://github.com/Whale0928/profanity-filter-api)에서 확인해주세요.
