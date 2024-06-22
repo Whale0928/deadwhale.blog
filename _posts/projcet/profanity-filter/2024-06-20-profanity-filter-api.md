@@ -2,8 +2,8 @@
 title: '비속어 검증 API 서비스 만들기'
 date: 2024-06-20
 author: me
-categories: [ project,api ]
-tags: [ project,api ]
+categories: [ profanity filter,project,api ]
+tags: [ profanity filter,project,api ]
 ---
 
 ## 개요
@@ -79,7 +79,8 @@ tags: [ project,api ]
 
 다만 몇가지 내용은 조금 다르게 구현하였습니다.
 
-예를 들어, `Content-Type`을 `application/x-www-form-urlencoded`에서 `application/json`으로 변경하였습니다.
+예를 들어, `Content-Type`을 `application/x-www-form-urlencoded`만 받을수 있는 것을
+`application/json`와 `application/x-www-form-urlencoded` 모두 처리할 수 변경 하였습니다.
 
 응답의 값중 Array를 List로 변경하는 등의 몇몇 차이점은 존재하니 유의해서 사용해주세요.
 

@@ -2,8 +2,8 @@
 title: '벨로그에서 깃허브로'
 date: 2024-06-20
 author: me
-categories: [ github ]
-tags: [ github ]
+categories: [ velog,github ]
+tags: [ velog,github ]
 image:
   path: /assets/img/post/20240620/img.png
 ---
