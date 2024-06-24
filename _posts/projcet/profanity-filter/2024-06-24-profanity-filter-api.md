@@ -1,6 +1,6 @@
 ---
 title: '비속어 검증 API 서비스 만들기'
-date: 2024-06-24ㄴ
+date: 2024-06-24
 author: me
 categories: [ profanity filter,project,api ]
 tags: [ profanity filter,project,api ]
